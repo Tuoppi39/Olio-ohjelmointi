@@ -1,0 +1,7 @@
+C:/Users/Järj. Valvoja.000/OneDrive - University of Oulu and Oamk/Olio ohjelmointi/VKT1OF2-SAMPO/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/VKT1OF2-SAMPO.dir
+C:/Users/Järj. Valvoja.000/OneDrive - University of Oulu and Oamk/Olio ohjelmointi/VKT1OF2-SAMPO/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Järj. Valvoja.000/OneDrive - University of Oulu and Oamk/Olio ohjelmointi/VKT1OF2-SAMPO/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Järj. Valvoja.000/OneDrive - University of Oulu and Oamk/Olio ohjelmointi/VKT1OF2-SAMPO/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+C:/Users/Järj. Valvoja.000/OneDrive - University of Oulu and Oamk/Olio ohjelmointi/VKT1OF2-SAMPO/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/install.dir
+C:/Users/Järj. Valvoja.000/OneDrive - University of Oulu and Oamk/Olio ohjelmointi/VKT1OF2-SAMPO/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+C:/Users/Järj. Valvoja.000/OneDrive - University of Oulu and Oamk/Olio ohjelmointi/VKT1OF2-SAMPO/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
